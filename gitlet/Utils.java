@@ -14,7 +14,7 @@ import java.util.List;
 
 
 /* Assorted utilities.
-   @author P. N. Hilfinger */
+   @author Sean Liu */
 class Utils {
 
     /* SHA-1 HASH VALUES. */
